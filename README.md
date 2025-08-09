@@ -14,7 +14,7 @@
 
 <!-- Кликаема снимка, която води към видеото -->
 <div align="center">
-  <a href="https://vimeo.com/1105722567" title="Натиснете, за да гледате видеото във Vimeo">
+  <a href="https://vimeo.com/1105722567">
     <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Гледайте видеото: Scorpio RAT срещу Windows Defender" width="700"/>
   </a>
 </div>

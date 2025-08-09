@@ -12,34 +12,34 @@
 
 <h1 align="center">Scorpio RAT against Windows Defender</h1>
 
+<!-- Clickable video thumbnail -->
 <div align="center">
-<a href="https://vimeo.com/1105722567?activityReferer=1">Вижте видеото във Vimeo</a>
+  <a href="https://vimeo.com/1105722567?activityReferer=1" title="Click to watch the video on Vimeo">
+    <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Watch Scorpio RAT against Windows Defender" width="700"/>
+  </a>
 </div>
 
 <br>
 
 <p align="center">
-  <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Scorpio RAT interface">
+  <img src="https://i.gyazo.com/09cff7b05f1e95fc85717684ace41b77.png" alt="Scorpio RAT features" width="700">
 </p>
 <p align="center">
-  <img src="https://i.gyazo.com/09cff7b05f1e95fc85717684ace41b77.png" alt="Scorpio RAT features">
+  <img src="https://i.gyazo.com/c0cc4633dddc1617a81e907afef442f5.png" alt="Scorpio RAT file manager" width="700">
 </p>
 <p align="center">
-  <img src="https://i.gyazo.com/c0cc4633dddc1617a81e907afef442f5.png" alt="Scorpio RAT file manager">
+  <img src="https://i.gyazo.com/2910426e820117344ffa3736233caa39.png" alt="Scorpio RAT remote shell" width="700">
 </p>
 <p align="center">
-  <img src="https://i.gyazo.com/2910426e820117344ffa3736233caa39.png" alt="Scorpio RAT remote shell">
+  <img src="https://i.gyazo.com/9b10400c31cc5ced7b3653ec9b535dff.png" alt="Scorpio RAT process manager" width="700">
 </p>
 <p align="center">
-  <img src="https://i.gyazo.com/9b10400c31cc5ced7b3653ec9b535dff.png" alt="Scorpio RAT process manager">
-</p>
-<p align="center">
-  <img src="https://i.gyazo.com/a8f1d1759a8c1ba36e68661c5995f9a2.png" alt="Scorpio RAT settings">
+  <img src="https://i.gyazo.com/a8f1d1759a8c1ba36e68661c5995f9a2.png" alt="Scorpio RAT settings" width="700">
 </p>
 
 ---
 
-## Features:
+## Features
 
 ### **Remote Desktop**
 - Start

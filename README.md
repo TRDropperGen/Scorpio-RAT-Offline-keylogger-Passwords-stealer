@@ -115,6 +115,6 @@
 
 ## Contact:
 Price:
- $150 /month
- $400 /Lifetime
-**Telegram:** https://t.me/TrDropperGen
+ -$150 /month
+ -$400 /Lifetime
+-**Telegram:** https://t.me/TrDropperGen

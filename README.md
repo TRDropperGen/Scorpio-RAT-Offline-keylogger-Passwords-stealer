@@ -1,21 +1,21 @@
 <div align="center">
-  <p><strong>review:</strong></p>
-  <a href="https://vimeo.com/manage/videos/11071629">https://vimeo.com/manage/videos/11071629</a>
+  <p><strong>Review Video:</strong></p>
+  <p><em>(Моля, предоставете публичния линк за това видео)</em></p>
 
   <br><br>
 
-  <p><strong>Avast Bypass:</strong></p>
-  <a href="https://vimeo.com/manage/videos/1108457382">https://vimeo.com/manage/videos/1108457382</a>
+  <p><strong>Avast Bypass Video:</strong></p>
+  <p><em>(Моля, предоставете публичния линк за това видео)</em></p>
 </div>
 
 <br>
 
 <h1 align="center">Scorpio RAT against Windows Defender</h1>
 
-<!-- Clickable video thumbnail -->
+<!-- Кликаема снимка, която води към видеото -->
 <div align="center">
-  <a href="https://vimeo.com/1105722567?activityReferer=1" title="Click to watch the video on Vimeo">
-    <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Watch Scorpio RAT against Windows Defender" width="700"/>
+  <a href="https://vimeo.com/1105722567" title="Натиснете, за да гледате видеото във Vimeo">
+    <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Гледайте видеото: Scorpio RAT срещу Windows Defender" width="700"/>
   </a>
 </div>
 

@@ -1,27 +1,34 @@
+<h1 align="center">Scorpio RAT Review</h1>
+
 <div align="center">
-  <p><strong>Review Video:</strong></p>
-  <p><em>(Моля, предоставете публичния линк за това видео)</em></p>
-
-  <br><br>
-
-  <p><strong>Avast Bypass Video:</strong></p>
-  <p><em>(Моля, предоставете публичния линк за това видео)</em></p>
+  <a href="https://vimeo.com/manage/videos/1107162965?fl=pl&fe=ti&pgroup=plv">
+    <img src="https://gyazo.com/955e4ac95629725a5c48ccab8c89a5e3.png" alt="Watch Video" width="700"/>
+  </a>
 </div>
-
-<br>
 
 <h1 align="center">Scorpio RAT against Windows Defender</h1>
 
-<!-- ----------- ТУК ЗАПОЧВА THUMBNAIL-ЪТ ----------- -->
+
 <div align="center">
   <a href="https://vimeo.com/1105722567">
-    <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Гледайте видеото: Scorpio RAT срещу Windows Defender" width="700"/>
+    <img src="https://i.gyazo.com/d9d920f90025d6a7545eeb05a222753b.png" alt="Watch Video" width="700"/>
+  </a>
+</div>
+<h1 align="center">Scorpio RAT against Avast</h1>
+
+<div align="center">
+  <a href="https://vimeo.com/manage/videos/1108457382">
+    <img src="https://gyazo.com/dc4ffc2e48335bd1b936ee2a47482b7f.png" alt="Watch Video" width="700"/>
   </a>
 </div>
 
 
 <br>
 
+
+<p align="center">
+  <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Scorpio RAT interface" width="700">
+</p>
 <p align="center">
   <img src="https://i.gyazo.com/09cff7b05f1e95fc85717684ace41b77.png" alt="Scorpio RAT features" width="700">
 </p>
@@ -107,5 +114,7 @@
 ---
 
 ## Contact:
-
+Price:
+ $150 /month
+ $400 /Lifetime
 **Telegram:** https://t.me/TrDropperGen

@@ -12,12 +12,13 @@
 
 <h1 align="center">Scorpio RAT against Windows Defender</h1>
 
-<!-- Кликаема снимка, която води към видеото -->
+<!-- ----------- ТУК ЗАПОЧВА THUMBNAIL-ЪТ ----------- -->
 <div align="center">
   <a href="https://vimeo.com/1105722567">
     <img src="https://i.gyazo.com/2527781a9d1ffdbba62fe683f12f0d70.png" alt="Гледайте видеото: Scorpio RAT срещу Windows Defender" width="700"/>
   </a>
 </div>
+
 
 <br>
 

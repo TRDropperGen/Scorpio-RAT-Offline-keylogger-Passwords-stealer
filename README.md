@@ -1,6 +1,6 @@
 Follow us on Telegram for latest updates.
 
-https://t.me/+aHP-3XKgoVc4OWI8
+https://t.me/+IO6AKH0JeFI3ZDFk
 
 <h1 align="center">Scorpio RAT Review</h1>
 
